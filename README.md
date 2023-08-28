@@ -4,7 +4,7 @@
 Um player simples com funções de pausa, play, passar e voltar músicas feito com Python, PySimpleGUI e pygame.
 
 <div align="center">
-<img width="400" src="https://o.remove.bg/downloads/e3a9ab59-2c00-4edf-9e9d-4b6b5b7d4a45/png-clipart-venomous-snake-reptile-animal-snake-animals-cobra-removebg-preview.png")
+<img width="400" src="https://i.pinimg.com/originals/61/e7/02/61e702a8f5cc886f733e4061585eb715.png")
 </div>
 
 ## Documentações 📚
