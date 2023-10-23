@@ -67,8 +67,11 @@ while True:
         if is_sound_playing():
             pass
         if is_sound_playing() == False:
-            play_sound(directory_songs[current_song])
-            update_display()
+            #play_sound(directory_songs[current_song])
+            #update_display()
+            directory = sg.popup_get_folder('Select Your Music Directory')
+            
+
         
     elif event == 'pause':
         if is_sound_playing():
